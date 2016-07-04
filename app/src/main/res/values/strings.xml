@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GiveMeHTML</string>
+    <string name="Button">Get HTML code</string>
+    <string name="BlankURL">http://.com/</string>
+</resources>
