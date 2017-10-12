@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        
         textXTML = (TextView) findViewById(R.id.textViewHTML);
         urlAdress = (EditText) findViewById(R.id.editText);
         buttonGo = (Button) findViewById(R.id.buttonGO);
